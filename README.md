@@ -1,6 +1,6 @@
 # SQL_injection
 
-Some sqli methods, labs from portswigger along with python3 scripts to automate some tasks
+This repository contains comprehensive explanation and solutions to some SQL injection labs from portswigger and also theory about Finding and exploiting SQL injections in general **Manually**
 
 # CAN be Found here
 
