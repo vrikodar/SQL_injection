@@ -4,7 +4,7 @@ This repository contains comprehensive explanation and solutions to some SQL inj
 
 # The web-version of the Repo Can be accessed at the Link Below
 
-https://sxnade.github.io/sqlinjection/index.html
+https://sxnade.github.io/sqlinjection/
 
 # NOTE
 
